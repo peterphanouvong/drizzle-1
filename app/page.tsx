@@ -1,5 +1,3 @@
-import { db } from "@/db";
-import { songs } from "@/db/schema";
 import {
   RegisterLink,
   LoginLink,
